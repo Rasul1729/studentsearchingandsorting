@@ -1,0 +1,15 @@
+Ram kumar,12A
+Ajith,10A
+Raju,9A
+monish,11C
+leo dass,8B
+mohan,12A
+Jegan,8C
+kumar,12b
+yuvaraj,11B
+patel,10C
+singh,12C
+Vinu,7C
+Ranjith,7A
+Ramesh,11A
+suresh,8A
